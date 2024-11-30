@@ -1,4 +1,4 @@
-# fullstack-va-cs
+# Tu luyện lập trình
 Con đường tự học Fullstack và Computer Science của mình. Bao gồm lộ trình, hướng dẫn và tài nguyên.
 
 ## Lịch trình & Phương pháp học tập
@@ -14,7 +14,7 @@ Tuần | Nhiệm vụ | Bài tập & Dự án | Các hướng dẫn cần hoàn 
 ### Phương pháp
 - Phương pháp ghi nhớ: Sử dụng [hướng dẫn Janki](https://www.semicolonandsons.com/articles/janki-method-refined) - Đại khái là tích hợp SRS vào để đẩy nhanh quá trình học. Mình cũng đã học được rất nhiều điều từ MIA (Mass Immersion Approach). Đọc bản [Backup của Janki](assets/janki.md)
 - Thực hiện hàng ngày dù ít hay nhiều - Atomic Habits.
-
+- Ghi chú: Về mặt kiến thức cần ghi nhớ, hãy ghi ra một tệp plain-text rồi để thêm vào Anki. 
 
 ## Fullstack
 Trước tiên mình muốn chạy để làm sản phẩm vì có nhiều ý tưởng.
@@ -28,6 +28,9 @@ Mình chưa thử hết cả 3 lộ trình này và thấy nhiều lập trình 
 Thiết bị sử dụng để học: Một Laptop đời thấp cài Linux và VSCode.
 
 Mình muốn cải thiện kĩ năng để sử dụng cả hai cái này.
+
+- Học Linux: Hoàn thành khóa [Linux Journey](https://linuxjourney.com/) & Thực hiện [thử thách](https://www.reddit.com/r/linuxupskillchallenge/) 
+- Học VSCode: Đọc Document của VSCode luôn: https://code.visualstudio.com/docs
 
 ### HTML, CSS, và JavaScript
 #### Cơ bản
