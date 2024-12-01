@@ -12,10 +12,34 @@ Tuần | Nhiệm vụ | Bài tập & Dự án | Các hướng dẫn cần hoàn 
 
 
 ### Phương pháp
-- Phương pháp ghi nhớ: Sử dụng [hướng dẫn Janki](https://www.semicolonandsons.com/articles/janki-method-refined) - Đại khái là tích hợp SRS vào để đẩy nhanh quá trình học. Mình cũng đã học được rất nhiều điều từ MIA (Mass Immersion Approach). Đọc bản [Backup của Janki](assets/janki.md)
+#### Phương pháp ghi nhớ 
+Sử dụng [hướng dẫn Janki](https://www.semicolonandsons.com/articles/janki-method-refined) - Đại khái là tích hợp SRS vào để đẩy nhanh quá trình học. Mình cũng đã học được rất nhiều điều từ MIA (Mass Immersion Approach). Đọc bản [Backup của Janki](assets/janki.md)
+
+#### Mỗi ngày
 - Thực hiện hàng ngày dù ít hay nhiều - Atomic Habits.
 - Ghi chú: Về mặt kiến thức cần ghi nhớ, hãy ghi ra một tệp plain-text rồi để thêm vào Anki. 
 
+#### Đọc thêm thật nhiều code
+Mình cần đi đọc thêm rất nhiều các dự án trên Github để nạp càng nhiều Input càng tốt, những cách xử lý vấn đề, Functions, cách chia cấu trúc dự án .v.v Lấy hết.
+
+Một số Repo tổng hợp có thể đọc
+
+- [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects sử dụng HTML, CSS & JS 
+- [duykhanh471/mia-rs](https://codeberg.org/duykhanh471/mia-rs) - Khu lưu đống Code Rust mình đi lượm trên Github
+- [solygambas/rust-projects](https://github.com/solygambas/rust-projects) -  5 small projects to understand Rust core concepts. 
+
+Và có thể đi đọc thêm bất kì các dự án mã nguồn mở nào mình yêu thích hoặc đúng theo kiểu ứng dụng mình muốn làm. Đọc và nhớ ném nó vào Anki nếu thấy có ích!
+
+#### Từ điển lập trình cá nhân
+Đây là một cách ngớ ngẩn mà mình tự nghĩ ra. Giả sử, mình làm ứng dụng mà cần xử lý tệp khá nhiều nên luôn cần `read_file()` và `write_file()`, nhưng mình khá là lười học thuộc mấy cái đó nên đóng luôn một thư mục chuyên lưu những Functions mà mình muốn/sẽ/có thể/cần sử dụng.
+
+Khi nào cần thì chỉ cần `Ctrl + C` và `Ctrl + V` là xong.
+
+Ví dụ, mình lưu đống Functions xử lý đọc/ghi tệp trong [idioms/read_and_write.md](https://codeberg.org/duykhanh471/mia-rs/src/branch/main), một tệp Markdown bất kì.
+
+Nó giống như một Documentation nhỏ của riêng mình vậy. Thay vì phải đi tra Google mỗi lần gặp hoặc chờ cho đến khi gặp đủ nhiều lần để nhớ thì có thể làm như thế này hoặc tích hợp với Anki cũng được luôn.
+
+#### Xem thật nhiều cách người ta code 
 ## Fullstack
 Trước tiên mình muốn chạy để làm sản phẩm vì có nhiều ý tưởng.
 
