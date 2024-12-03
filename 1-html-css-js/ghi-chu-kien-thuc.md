@@ -50,3 +50,11 @@ if (!obj[name]) {
     obj[name] = 0;
 }
 obj[name]++;
+
+### How to KeyEventListener "Enter"?
+
+document.querySelector('#txtSearch').addEventListener('keypress', function (e) {
+    if (e.key === 'Enter') {
+      // code for enter
+    }
+});

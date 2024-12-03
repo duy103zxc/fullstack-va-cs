@@ -18,6 +18,49 @@
 <script>
 const endpoint = 'https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json';
 
+// Neu khong muon data thay doi thi hay su dung .push() -> them data vao
+const cities = [];
+// Promise??? Type, xong call then()
+fetch(endpoint).then(blob => blob.json()).then(data => cities.push(...data));
+// ...data -> Add all the cities into the cities array without nested elements
+// Nếu để push(data) thì nó sẽ thành nested array
+
+function findMatches(wordToMatch, cities) {
+  // Cơ bản về regex, cần học:
+  // g: global, match toàn bộ
+  // i: insensitive case
+  const regex = new RegExp(wordToMatch, 'gi');
+  // match(regex) thì như tên gọi, để match kết quả
+  return cities.filter(place => place.city.match(regex) || place.state.match(regex)) 
+}
+
+const searchInput = document.querySelector(".search");
+const suggestions = document.querySelector(".suggestions");
+
+
+function displayMatches() {
+  const mapArray = findMatches(this.value, cities);
+  
+  const html = mapArray.map(place => {
+    // How to highlight search result
+    const regex = new RegExp(this.value, 'gi');
+    const cityName = place.city.replace(regex, `<span class="hl">${this.value}</span>`);
+    return `
+      <li>
+        <span>${cityName}, ${place.state}</span>
+        <span>${place.population}</span>
+      </li>
+    `
+  }).join('');
+  // Cập nhật HTML của class bất kì
+  suggestions.innerHTML = html;
+}
+
+
+searchInput.addEventListener('change', displayMatches);
+searchInput.addEventListener('keyup', displayMatches);
+// Get your data first, worry about hooking HTML later
+
 </script>
 </body>
 </html>

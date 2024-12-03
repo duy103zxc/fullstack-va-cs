@@ -1,6 +1,3 @@
-
-
-
 Over the last few years I've made a [public fuss](http://www.jackkinsella.ie/2011/12/05/janki-method.html) about [using spaced-repetition flashcards to speed up learning programming.](http://www.oxbridgenotes.com/other/web_development_flashcards) I'm aware that the novelty of an idea can overshadow rational evaluation of its usefulness so the aim of this post is to follow up my early enthusiasm and refine my methodology following a further year's experience in unfailing daily card reviews.
 
 I've condensed this into point form to save us both time. Each subsection represents a principle I've adopted in my learning strategy, the overarching goal of which is to study as much material as possible in the shortest amount of time.

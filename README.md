@@ -13,7 +13,11 @@ Tuần | Nhiệm vụ | Bài tập & Dự án | Các hướng dẫn cần hoàn 
 
 ### Phương pháp
 #### Phương pháp ghi nhớ 
-Sử dụng [hướng dẫn Janki](https://www.semicolonandsons.com/articles/janki-method-refined) - Đại khái là tích hợp SRS vào để đẩy nhanh quá trình học. Mình cũng đã học được rất nhiều điều từ MIA (Mass Immersion Approach). Đọc bản [Backup của Janki](assets/janki.md)
+Sử dụng [hướng dẫn Janki](https://www.semicolonandsons.com/articles/janki-method-refined) - Đại khái là tích hợp SRS vào để đẩy nhanh quá trình học. Mình cũng đã học được rất nhiều điều từ MIA (Mass Immersion Approach). Bản Backup của Janki:
+
+- [Tổng quan về phương pháp](assets/janki1.md)
+- [Một số các hướng dẫn tạo thẻ](assets/janki2.md)
+
 
 #### Mỗi ngày
 - Thực hiện hàng ngày dù ít hay nhiều - Atomic Habits.
@@ -39,7 +43,18 @@ Ví dụ, mình lưu đống Functions xử lý đọc/ghi tệp trong [idioms/r
 
 Nó giống như một Documentation nhỏ của riêng mình vậy. Thay vì phải đi tra Google mỗi lần gặp hoặc chờ cho đến khi gặp đủ nhiều lần để nhớ thì có thể làm như thế này hoặc tích hợp với Anki cũng được luôn.
 
-#### Xem thật nhiều cách người ta code 
+Cập nhật: Mới gần đây khi xem trang chủ của tác giả Janki Method thì tui phát hiện ra được một hướng dẫn tương tự phần này nhưng tốt hơn, đó là ["Code Diary"](https://www.youtube.com/watch?v=tarmCEHfGa0)
+
+Một số gợi ý cho việc nạp Input dưới dạng xem video: 
+
+- [hellerve/programming-talks](https://github.com/hellerve/programming-talks)
+- [jamesmunns/awesome-rust-streaming](https://github.com/jamesmunns/awesome-rust-streaming)
+
+
+#### Thiết kế
+> 90% of coding is planning, design, architecture etc, ie. knowing what to code and why rather than the act of physically typing it out.
+
+
 ## Fullstack
 Trước tiên mình muốn chạy để làm sản phẩm vì có nhiều ý tưởng.
 
