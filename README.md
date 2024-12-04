@@ -86,7 +86,7 @@ Mình đã từng học hết cả 3 phần này nên mình hơi lười học l
 
 Mình cũng có theo khóa 30DayJS để làm 30 dự án nhỏ trong 30 ngày. Đọc [30 Day Vanilla JS Coding Challenge](https://javascript30.com). Sau một thời gian thì thấy không thích xem video lắm nên tự tìm cách khác luôn:
 
-- [nitishdayal/JavaScript30](https://github.com/nitishdayal/JavaScript30) - Hơi cũ nhưng ông này tổng hợp toàn bộ nội dung từ video, học luôn từ đây cũng được.
+- [nitishdayal/JavaScript30](https://github.com/nitishdayal/JavaScript30) - Hơi cũ nhưng ông này tổng hợp toàn bộ nội dung từ video, học luôn từ đây cũng được - [Trang này](https://github.com/yhabib/JavaScript30) ghi chú có vẻ tín chỉ hơn.
 - [thesagittariusme](http://thesagittariusme.blogspot.com/search/label/JS30) - Ghi chú nhanh những gì đã học được, có thể t sẽ dùng để đối chiếu với những gì mà mình đã ghi chú lại rồi nhặt những nội dung hay.
 
 Còn một thử thách 30 ngày khác mà t mới đây (04/12/2024) tìm được trên Github. [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript).
