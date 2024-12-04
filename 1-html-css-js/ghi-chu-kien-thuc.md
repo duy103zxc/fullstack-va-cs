@@ -6,6 +6,9 @@ Scope nhận Input từ bàn phím là `window`
 Only choose one so it should be querySelector(), querySelectorAll()
 To choose all of the elements
 
+## Lesson 2
+Skipped
+
 ## Lesson 3
 ### Create CSS Variable
 -- with name
@@ -58,3 +61,16 @@ document.querySelector('#txtSearch').addEventListener('keypress', function (e) {
       // code for enter
     }
 });
+
+## Lesson 5
+About flexbox
+
+## Lesson 6
+
+## Lesson 7
+
+## Lesson 8
+Skipped
+
+## Lesson 9
+Skipped

@@ -84,7 +84,18 @@ Mình đã từng học hết cả 3 phần này nên mình hơi lười học l
 - [CSS](https://learnxinyminutes.com/docs/css/)
 - [JavaScript](https://learnxinyminutes.com/docs/javascript/)
 
-Mình cũng có theo khóa 30DayJS để làm 30 dự án nhỏ trong 30 ngày. Đọc [30 Day Vanilla JS Coding Challenge](https://javascript30.com).
+Mình cũng có theo khóa 30DayJS để làm 30 dự án nhỏ trong 30 ngày. Đọc [30 Day Vanilla JS Coding Challenge](https://javascript30.com). Sau một thời gian thì thấy không thích xem video lắm nên tự tìm cách khác luôn:
+
+- [nitishdayal/JavaScript30](https://github.com/nitishdayal/JavaScript30) - Hơi cũ nhưng ông này tổng hợp toàn bộ nội dung từ video, học luôn từ đây cũng được.
+- [thesagittariusme](http://thesagittariusme.blogspot.com/search/label/JS30) - Ghi chú nhanh những gì đã học được, có thể t sẽ dùng để đối chiếu với những gì mà mình đã ghi chú lại rồi nhặt những nội dung hay.
+
+Còn một thử thách 30 ngày khác mà t mới đây (04/12/2024) tìm được trên Github. [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript).
+
+Tổng hợp tài nguyên là vậy nên tóm gọn cách học của cá nhân t là:
+
+1. Học hết các phần cơ bản của F8, ghi chú rồi ném hết vào Anki những gì cần nhớ.
+2. Làm [30DayJS của Wesbos](https://javascript30.com) trước, xong hết cả 30 dự án nhỏ.
+3. Quay lại [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) trên Github (Có bản dịch Tiếng Việt). Kiểm tra các nội dung muốn học/ôn lại rồi chiến tiếp và làm mini projects ở cuối.
 
 #### Nâng cao
 
